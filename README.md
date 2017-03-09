@@ -71,3 +71,7 @@ https://www.youtube.com/watch?v=7iLeBD33Fo0
 
 https://www.youtube.com/watch?v=AJVolvNwHL8
 Debugging & Testing Your Android Applications
+
+
+Dave Smith: Android Training, Things Devs Should Know
+https://www.youtube.com/watch?v=GFtoxou13J8
