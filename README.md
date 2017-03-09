@@ -82,3 +82,6 @@ file:///home/davis/Downloads/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
 
 ELC 2015 - Generalize Android on Low-Cost 64-Bit ARM Community Boards - Khasim Syed Mohammed, Linaro
 https://www.youtube.com/watch?v=u2Ef3bfyT6s
+
+Porting VLC on Android (en) - Jean-Baptiste Kempf, VideoLan - Droidcon Paris 2014
+https://www.youtube.com/watch?v=NoWV2JdoNnc
