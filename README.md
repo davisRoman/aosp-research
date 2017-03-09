@@ -85,3 +85,46 @@ https://www.youtube.com/watch?v=u2Ef3bfyT6s
 
 Porting VLC on Android (en) - Jean-Baptiste Kempf, VideoLan - Droidcon Paris 2014
 https://www.youtube.com/watch?v=NoWV2JdoNnc
+
+
+https://events.linuxfoundation.org/slides/2011/abs/abs2011_yaghmour_porting.pdf
+
+
+Android Device Porting Walkthrough - Android Builder Summit 2012
+https://www.youtube.com/watch?v=mvxYt3AkbrE
+
+NXPNCI Android Porting Guidelines
+http://www.nxp.com/documents/application_note/AN11690.pdf
+
+
+http://xda-university.com/as-a-developer/porting-android-to-non-android-devices
+
+http://elinux.org/images/f/ff/Porting_Android_4.0_to_a_Custom_Board.pdf
+
+http://free-electrons.com/pub/conferences/2015/captronic/captronic-porting-linux-on-arm.pdf
+
+What else can you do with Android?
+Porting to custom hardware
+http://elinux.org/images/7/71/03-android-inside.pdf
+
+Android internals
+https://vimeo.com/18017921
+
+Custom Kernel on 96boards Hikey LeMaker
+https://suchakra.wordpress.com/2016/04/15/custom-kernel-on-96boards-hikey/
+
+
+Getting Started: Building Android From Source
+http://xda-university.com/as-a-developer/getting-started-building-android-from-source
+
+Komáromy Dániel - Enter The Snapdragon!
+https://www.youtube.com/watch?v=2wJRnewVE-g
+
+https://www.youtube.com/watch?v=JnGL85SglbA
+Dissecting Qualcomm's 1.7M Android Fork by Stephen Boyd
+
+[CB16] The ARMs race for kernel protection by Jonathan​ ​Levin
+https://www.youtube.com/watch?v=7qSr5p3wJ_8
+
+CyanogenMod Workshop - Building your own Android OS - Abhisek Devkota @ADD 15
+https://www.youtube.com/watch?v=AUMyXknowhY
