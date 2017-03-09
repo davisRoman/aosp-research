@@ -67,3 +67,7 @@ https://www.youtube.com/watch?v=h3gPo7qFOFw
 
 Tutorial: X86 ROM Cooking 101 - Android Builders Summit
 https://www.youtube.com/watch?v=7iLeBD33Fo0
+
+
+https://www.youtube.com/watch?v=AJVolvNwHL8
+Debugging & Testing Your Android Applications
