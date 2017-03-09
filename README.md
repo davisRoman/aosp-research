@@ -13,3 +13,6 @@ slides: https://github.com/floe/mobile-information-systems/blob/master/10-androi
 
 Amit Pundir - Android Porting for Dummies
 https://www.youtube.com/watch?v=JD1V3AQC0GQ
+
+The Jack and Jill Build System
+https://www.youtube.com/watch?v=IwklNEYYs2I&t=1737s
