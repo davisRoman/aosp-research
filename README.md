@@ -52,3 +52,18 @@ https://www.youtube.com/watch?v=EZAoJU-nUyI
 
 ELC 2015 - Embedded Android Workshop Part 1 - Karim Yaghmour, Opersys
 https://www.youtube.com/watch?v=dEKYZUgorWQ&t=115s
+
+
+
+Digging Into Android Startup
+https://www.youtube.com/watch?annotation_id=annotation_1433316763&feature=iv&src_vid=GFtoxou13J8&v=5SQP0qfUDjI
+
+
+Digging Into Android System Services
+https://www.youtube.com/watch?v=M6extgmQQNw
+
+Android Development Fundamentals: What I wish I knew when I started
+https://www.youtube.com/watch?v=h3gPo7qFOFw
+
+Tutorial: X86 ROM Cooking 101 - Android Builders Summit
+https://www.youtube.com/watch?v=7iLeBD33Fo0
