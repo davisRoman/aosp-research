@@ -148,3 +148,12 @@ https://www.youtube.com/watch?v=thzj0OtGb9E&t=466s
 
 Compatibility Definition - Android 7.1
 https://static.googleusercontent.com/media/source.android.com/en//compatibility/android-cdd.pdf
+
+
+Android Hacking for the Nexus 7: Part  1
+https://www.scribd.com/document/234215989/Android-Hacking-for-Nexus7-2012-11-19-Part1
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjPvvD69MnSAhUh74MKHUI4C3UQFggfMAA&url=http%3A%2F%2Felinux.org%2Fimages%2Fd%2Fd3%2FROM_cooking_and_good_practices--vagnet.pdf&usg=AFQjCNEOCb7nJQhM8leYysfj_q36qvnM1A
+
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwioj7mQ9cnSAhXp5IMKHXtCBjcQFggcMAA&url=https%3A%2F%2Fdoc.lagout.org%2Fprogrammation%2FAndroid%2FXDADevelopers%27%2520Android%2520Hacker%27s%2520Toolkit%2520%255BTyler%2520%2526%2520Verduzco%25202012-06-05%255D.pdf&usg=AFQjCNFSKOmNFEcEC3a-MpXpXO9oL19Y-g
