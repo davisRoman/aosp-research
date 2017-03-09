@@ -157,3 +157,14 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&v
 
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwioj7mQ9cnSAhXp5IMKHXtCBjcQFggcMAA&url=https%3A%2F%2Fdoc.lagout.org%2Fprogrammation%2FAndroid%2FXDADevelopers%27%2520Android%2520Hacker%27s%2520Toolkit%2520%255BTyler%2520%2526%2520Verduzco%25202012-06-05%255D.pdf&usg=AFQjCNFSKOmNFEcEC3a-MpXpXO9oL19Y-g
+
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjrnOfJ9cnSAhWP0YMKHd59AQ0QFgguMAA&url=https%3A%2F%2Fdeveloper.qualcomm.com%2Fdownload%2Fdb410c%2Flinux-android-software-build-and-installation-guide.pdf&usg=AFQjCNG7cu1AYdkxea6IbXrC_r5zupj7Bw
+
+https://developer.qualcomm.com/qfile/29466/lm80-p0436-23_interface_i2c_light_sensor_appnote.pdf
+
+
+https://developer.qualcomm.com/qfile/28820/lm80-p0436-9_sensors_porting_guide.pdf
+
+
+https://java.net/attachments/lists/jitsi/dev/2008-07/166/Porting_SIP_Communicator_on_Android.pdf
