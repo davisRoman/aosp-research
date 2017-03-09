@@ -1,5 +1,7 @@
 # aosp-research
 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj6_pn_9snSAhVK_IMKHV4HAWMQFggcMAA&url=https%3A%2F%2Fcansecwest.com%2Fslides%2F2013%2FAn%2520Android%2520Hacker%27s%2520Journey-%2520Challenges%2520in%2520Android%2520Security%2520Research.pptx&usg=AFQjCNF4xeLxCNiWFwmBJuckX8eW7CR6Cg
+
 
 http://www.geek.com/android/advanced-android-creating-your-own-google-free-android-phone-1598734/
 
