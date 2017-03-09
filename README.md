@@ -23,3 +23,24 @@ https://www.youtube.com/watch?v=E4amrzJ_fUY
 
 #droidconpl2015 - Aleksander Piotrowski 'Nothing but the truth about Binder'
 https://www.youtube.com/watch?v=l4OlJqJDpkk
+
+Tutorial: Diving into Android Source Code
+https://www.youtube.com/watch?v=NsqFOSzoYE8
+
+
+https://www.youtube.com/playlist?list=PLEq1q16moI5uvGNEdu0eODGiSJAk3VXfy
+
+https://www.youtube.com/playlist?list=PL07D15CEBAC16A98B
+
+https://www.youtube.com/playlist?list=PL9kDJEhVASV7Onu9l2rRvo14N9S4z8rNh
+
+http://blog.udinic.com/2014/07/24/aosp-part-3-developing-efficiently
+
+
+https://www.youtube.com/watch?v=LBqpXaivRmY&list=PLp8TnZfz-r1761W5cksOx6488Io7F-Eky&index=1
+
+https://www.youtube.com/watch?v=hiq3mGfLOtE
+
+https://www.youtube.com/watch?v=NWhyADzgoiI
+
+http://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
