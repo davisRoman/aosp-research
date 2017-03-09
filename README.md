@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=JD1V3AQC0GQ
 
 The Jack and Jill Build System
 https://www.youtube.com/watch?v=IwklNEYYs2I&t=1737s
+
+Open Source on Sony Devices (Big Android BBQ 2015)
+https://www.youtube.com/watch?v=E4amrzJ_fUY
