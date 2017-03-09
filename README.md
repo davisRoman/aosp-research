@@ -75,3 +75,6 @@ Debugging & Testing Your Android Applications
 
 Dave Smith: Android Training, Things Devs Should Know
 https://www.youtube.com/watch?v=GFtoxou13J8
+
+Little Kernel Boot Loader Overview ( Qualcomm )
+file:///home/davis/Downloads/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
