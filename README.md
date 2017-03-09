@@ -44,3 +44,11 @@ https://www.youtube.com/watch?v=hiq3mGfLOtE
 https://www.youtube.com/watch?v=NWhyADzgoiI
 
 http://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
+
+Mastering the Android Touch System
+https://www.youtube.com/watch?v=EZAoJU-nUyI
+
+
+
+ELC 2015 - Embedded Android Workshop Part 1 - Karim Yaghmour, Opersys
+https://www.youtube.com/watch?v=dEKYZUgorWQ&t=115s
