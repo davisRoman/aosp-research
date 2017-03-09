@@ -19,3 +19,7 @@ https://www.youtube.com/watch?v=IwklNEYYs2I&t=1737s
 
 Open Source on Sony Devices (Big Android BBQ 2015)
 https://www.youtube.com/watch?v=E4amrzJ_fUY
+
+
+#droidconpl2015 - Aleksander Piotrowski 'Nothing but the truth about Binder'
+https://www.youtube.com/watch?v=l4OlJqJDpkk
