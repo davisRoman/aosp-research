@@ -135,3 +135,16 @@ https://www.cl.cam.ac.uk/teaching/0910/AddTopics/lecture4.pdf
 http://www.embeddedcomputingconference.ch/pdf_sec_2009/3b3-ziswiler.pdf
 
 http://files.cnblogs.com/files/pengdonglin137/Android-x86%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E4%B8%8E%E7%A7%BB%E6%A4%8D2.pdf
+
+Understanding Android Open Source Project
+http://www.cafelinear.com/2014/02/27/understanding-aosp.html
+
+
+http://elinux.org/images/b/bc/Utilizing_the_Android_Open_Source_Project_to_Support_Controllers_for_Single-Use_Devices.pdf
+
+
+ELC 2015 - Android Open Source Project to Support Single-Use Device Controllers - Ben Friedberg, SDG
+https://www.youtube.com/watch?v=thzj0OtGb9E&t=466s
+
+Compatibility Definition - Android 7.1
+https://static.googleusercontent.com/media/source.android.com/en//compatibility/android-cdd.pdf
