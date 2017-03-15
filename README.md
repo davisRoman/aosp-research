@@ -1,5 +1,11 @@
 # aosp-research
 
+
+Running Code in the Android Stack - Karim Yaghmour, Opersys
+https://www.youtube.com/watch?v=D5D5_Cghkv0&list=PLrWvSmw0_Zf2Y9PH3rsFZra_g1Zo9Yk2h&index=1
+http://events.linuxfoundation.org/sites/events/files/slides/running-code-in-android-clean-131030.pdf
+
+
 ELC 2015 - Building My Product on Android Open Source Project - Rafael Coutinho, Phi 
 https://www.youtube.com/watch?v=yUOzBvtXEgE&t=132s
 http://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
