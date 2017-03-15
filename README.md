@@ -1,5 +1,18 @@
 # aosp-research
+Android Plateform Anatomy (eng) - DroidCon Paris 2013
+https://www.youtube.com/watch?v=UBHz-noN60I
+https://www.slideshare.net/gxben/droidcon-2013-france-android-platform-anatomy
 
+Android Device Porting Walkthrough - Android Builder Summit 2012
+https://www.youtube.com/watch?v=mvxYt3AkbrE&t=17s
+https://events.linuxfoundation.org/images/stories/pdf/lf_abs12_zores.pdf
+
+LCE12 - Embedded Android - 2 Nov 2012 - BV2 (Part 2)
+https://www.youtube.com/watch?v=mdpjEAu76jE&t=263s
+https://events.linuxfoundation.org/images/stories/pdf/lf_abs12_kobayashi.pdf
+
+ADB (Android Debug Bridge) How It Works - Android Builder Summit 2012
+https://www.youtube.com/watch?v=0y8Xn5NfpLY&index=3&list=PL89H05C9GvZ-CbEkj2CFuwNlHvql0qB_p
 
 Running Code in the Android Stack - Karim Yaghmour, Opersys
 https://www.youtube.com/watch?v=D5D5_Cghkv0&list=PLrWvSmw0_Zf2Y9PH3rsFZra_g1Zo9Yk2h&index=1
