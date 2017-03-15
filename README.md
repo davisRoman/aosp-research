@@ -1,5 +1,29 @@
 # aosp-research
 
+
+
+
+
+Karim Yaghmour Presents Embedded Android #1 - Android Internals
+https://www.youtube.com/watch?v=KLUXPxxJc5c
+slides: https://www.slideshare.net/opersys/embedded-android-workshop-part-1-at-linaro-connect-asia-2013
+
+
+
+Karim Yaghmour Presents Embedded Android #2 - Working with the AOSP
+https://www.youtube.com/watch?v=LimC0XpeT0k
+slides: https://www.slideshare.net/opersys/working-with-the-aosp-linaro-connect-asia-2013
+
+Karim Yaghmour Presents Embedded Android #3 - Native Android user-space
+https://www.youtube.com/watch?v=lHeMfFAFI-I&t=880s
+slides: https://www.slideshare.net/opersys/native-android-userspace-part-of-the-embedded-android-workshop-at-linaro-connect-asia-2013
+
+Karim Yaghmour Presents Embedded Android #4 - Using and Customizing the Android Framework
+https://www.youtube.com/watch?v=XwRy8Kv3vDQ&t=7s
+slides: https://www.slideshare.net/opersys/using-and-customizing-the-android-framework-part-4-of-embedded-android-workshop-at-linaro-connect-asia-2013
+
+
+
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj6_pn_9snSAhVK_IMKHV4HAWMQFggcMAA&url=https%3A%2F%2Fcansecwest.com%2Fslides%2F2013%2FAn%2520Android%2520Hacker%27s%2520Journey-%2520Challenges%2520in%2520Android%2520Security%2520Research.pptx&usg=AFQjCNF4xeLxCNiWFwmBJuckX8eW7CR6Cg
 
 
