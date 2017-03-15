@@ -1,6 +1,8 @@
 # aosp-research
 
-
+ELC 2015 - Building My Product on Android Open Source Project - Rafael Coutinho, Phi 
+https://www.youtube.com/watch?v=yUOzBvtXEgE&t=132s
+http://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
 
 
 
