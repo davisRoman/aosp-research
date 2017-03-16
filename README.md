@@ -1,4 +1,12 @@
 # aosp-research
+ELC 2015 - Android Customization: From the Kernel to the Apps - Cédric Cabessa, Genymobile
+https://www.youtube.com/watch?v=o64puvBxgYM&index=3&list=PLp0nAUdhWcr5xQnM5Jaay5NccBlUE6Z8V
+http://elinux.org/images/f/fb/Android_Customization-_From_the_Kernel_to_the_Apps.pdf
+
+Introduction to Android Platform Development (with Linaro)
+https://www.youtube.com/watch?v=wS2VxHQkeT4&index=6&list=PLp0nAUdhWcr5xQnM5Jaay5NccBlUE6Z8V
+https://wiki.linaro.org/Events/LinaroConnectQ3.11/Presentations?action=AttachFile&do=get&target=Introduction_to_Android_Platform_Development.pdf
+
 Android Plateform Anatomy (eng) - DroidCon Paris 2013
 https://www.youtube.com/watch?v=UBHz-noN60I
 https://www.slideshare.net/gxben/droidcon-2013-france-android-platform-anatomy
