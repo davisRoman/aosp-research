@@ -1,4 +1,8 @@
 # aosp-research
+Shree Kumar and Nitheesh K. L. - Extending Android with New Devices
+https://www.youtube.com/watch?v=hezmo93-tU4
+https://www.slideshare.net/ShreeKumar1/extending-android-with-new-devices
+
 Open Android - O'Reilly Webcast - Marko Gargenta
 https://www.youtube.com/watch?v=6TpxrZo1FjA&list=PLOrIbKcQAgbnWyrE3EVF2QPlf4CvThk6A
 
