@@ -10,19 +10,10 @@ Num |                                  Video                                    
 6   | ELC 2015 - Android Customization: From the Kernel to the Apps - Cédric Cabessa,            | [youtube](https://www.youtube.com/watch?v=o64puvBxgYM&index=3&list=PLp0nAUdhWcr5xQnM5Jaay5NccBlUE6Z8V)  | [slides](http://elinux.org/images/f/fb/Android_Customization-_From_the_Kernel_to_the_Apps.pdf)
 7   | Introduction to Android Platform Development (with Linaro)                                 | [youtube](https://www.youtube.com/watch?v=wS2VxHQkeT4&index=6&list=PLp0nAUdhWcr5xQnM5Jaay5NccBlUE6Z8V)  | [slides](https://wiki.linaro.org/Events/LinaroConnectQ3.11/Presentations?action=AttachFile&do=get&target=Introduction_to_Android_Platform_Development.pdf)
 8   | Android Plateform Anatomy (eng) - DroidCon Paris 2013                                      | [youtube](https://www.youtube.com/watch?v=UBHz-noN60I)                                                  | [slides](https://www.slideshare.net/gxben/droidcon-2013-france-android-platform-anatomy)
-8   | Android Device Porting Walkthrough - Android Builder Summit 2012                           | [youtube](https://www.youtube.com/watch?v=mvxYt3AkbrE&t=17s)                                            | [slides](https://events.linuxfoundation.org/images/stories/pdf/lf_abs12_zores.pdf)
-
-LCE12 - Embedded Android - 2 Nov 2012 - BV2 (Part 2)
-https://www.youtube.com/watch?v=mdpjEAu76jE&t=263s
-https://events.linuxfoundation.org/images/stories/pdf/lf_abs12_kobayashi.pdf
-
-ADB (Android Debug Bridge) How It Works - Android Builder Summit 2012
-https://www.youtube.com/watch?v=0y8Xn5NfpLY&index=3&list=PL89H05C9GvZ-CbEkj2CFuwNlHvql0qB_p
-
-Running Code in the Android Stack - Karim Yaghmour, Opersys
-https://www.youtube.com/watch?v=D5D5_Cghkv0&list=PLrWvSmw0_Zf2Y9PH3rsFZra_g1Zo9Yk2h&index=1
-http://events.linuxfoundation.org/sites/events/files/slides/running-code-in-android-clean-131030.pdf
-
+9   | Android Device Porting Walkthrough - Android Builder Summit 2012                           | [youtube](https://www.youtube.com/watch?v=mvxYt3AkbrE&t=17s)                                            | [slides](https://events.linuxfoundation.org/images/stories/pdf/lf_abs12_zores.pdf)
+10  | LCE12 - Embedded Android - 2 Nov 2012 - BV2 (Part 2)                                       | [youtube](https://www.youtube.com/watch?v=mdpjEAu76jE&t=263s)                                           | [slides](https://events.linuxfoundation.org/images/stories/pdf/lf_abs12_kobayashi.pdf)
+11  | ADB (Android Debug Bridge) How It Works - Android Builder Summit 2012                      | [youtube](https://www.youtube.com/watch?v=0y8Xn5NfpLY&index=3&list=PL89H05C9GvZ-CbEkj2CFuwNlHvql0qB_p)  |
+12  | Running Code in the Android Stack - Karim Yaghmour, Opersys                                | [youtube](https://www.youtube.com/watch?v=D5D5_Cghkv0&list=PLrWvSmw0_Zf2Y9PH3rsFZra_g1Zo9Yk2h&index=1)  | [slides](http://events.linuxfoundation.org/sites/events/files/slides/running-code-in-android-clean-131030.pdf)
 
 ELC 2015 - Building My Product on Android Open Source Project - Rafael Coutinho, Phi 
 https://www.youtube.com/watch?v=yUOzBvtXEgE&t=132s
