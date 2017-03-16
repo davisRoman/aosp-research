@@ -14,30 +14,11 @@ Num |                                  Video                                    
 10  | LCE12 - Embedded Android - 2 Nov 2012 - BV2 (Part 2)                                       | [youtube](https://www.youtube.com/watch?v=mdpjEAu76jE&t=263s)                                           | [slides](https://events.linuxfoundation.org/images/stories/pdf/lf_abs12_kobayashi.pdf)
 11  | ADB (Android Debug Bridge) How It Works - Android Builder Summit 2012                      | [youtube](https://www.youtube.com/watch?v=0y8Xn5NfpLY&index=3&list=PL89H05C9GvZ-CbEkj2CFuwNlHvql0qB_p)  |
 12  | Running Code in the Android Stack - Karim Yaghmour, Opersys                                | [youtube](https://www.youtube.com/watch?v=D5D5_Cghkv0&list=PLrWvSmw0_Zf2Y9PH3rsFZra_g1Zo9Yk2h&index=1)  | [slides](http://events.linuxfoundation.org/sites/events/files/slides/running-code-in-android-clean-131030.pdf)
-
-ELC 2015 - Building My Product on Android Open Source Project - Rafael Coutinho, Phi 
-https://www.youtube.com/watch?v=yUOzBvtXEgE&t=132s
-http://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
-
-
-
-Karim Yaghmour Presents Embedded Android #1 - Android Internals
-https://www.youtube.com/watch?v=KLUXPxxJc5c
-slides: https://www.slideshare.net/opersys/embedded-android-workshop-part-1-at-linaro-connect-asia-2013
-
-
-
-Karim Yaghmour Presents Embedded Android #2 - Working with the AOSP
-https://www.youtube.com/watch?v=LimC0XpeT0k
-slides: https://www.slideshare.net/opersys/working-with-the-aosp-linaro-connect-asia-2013
-
-Karim Yaghmour Presents Embedded Android #3 - Native Android user-space
-https://www.youtube.com/watch?v=lHeMfFAFI-I&t=880s
-slides: https://www.slideshare.net/opersys/native-android-userspace-part-of-the-embedded-android-workshop-at-linaro-connect-asia-2013
-
-Karim Yaghmour Presents Embedded Android #4 - Using and Customizing the Android Framework
-https://www.youtube.com/watch?v=XwRy8Kv3vDQ&t=7s
-slides: https://www.slideshare.net/opersys/using-and-customizing-the-android-framework-part-4-of-embedded-android-workshop-at-linaro-connect-asia-2013
+13  | ELC 2015 - Building My Product on Android Open Source Project - Rafael Coutinho, Phi       | [youtube](https://www.youtube.com/watch?v=yUOzBvtXEgE&t=132s)                                           | [slides](http://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf)
+14  | Karim Yaghmour Presents Embedded Android #1 - Android Internals                            | [youtube](https://www.youtube.com/watch?v=KLUXPxxJc5c)                                                  | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-part-1-at-linaro-connect-asia-2013)
+15  | Karim Yaghmour Presents Embedded Android #2 - Working with the AOSP                        | [youtube](https://www.youtube.com/watch?v=LimC0XpeT0k)                                                  | [slides](https://www.slideshare.net/opersys/working-with-the-aosp-linaro-connect-asia-2013)
+16  | Karim Yaghmour Presents Embedded Android #3 - Native Android user-space                    | [youtube](https://www.youtube.com/watch?v=lHeMfFAFI-I&t=880s)                                           | [slides](https://www.slideshare.net/opersys/native-android-userspace-part-of-the-embedded-android-workshop-at-linaro-connect-asia-2013)
+17  | Karim Yaghmour Presents Embedded Android #4 - Using and Customizing the Android Framework                   | [youtube](https://www.youtube.com/watch?v=XwRy8Kv3vDQ&t=7s)                            | [slides](https://www.slideshare.net/opersys/using-and-customizing-the-android-framework-part-4-of-embedded-android-workshop-at-linaro-connect-asia-2013)
 
 
 
