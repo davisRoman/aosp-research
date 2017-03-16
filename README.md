@@ -1,4 +1,9 @@
 # aosp-research
+ELC 2015 - Platform-Level UI Customization - Karim Yaghmour, Opersys
+https://www.youtube.com/watch?v=icHT3t0P3lw
+http://elinux.org/images/2/2b/Platform-Level_UI_Customization.pdf
+
+
 Shree Kumar and Nitheesh K. L. - Extending Android with New Devices
 https://www.youtube.com/watch?v=hezmo93-tU4
 https://www.slideshare.net/ShreeKumar1/extending-android-with-new-devices
