@@ -18,8 +18,10 @@ Num |                                  Video                                    
 14  | Karim Yaghmour Presents Embedded Android #1 - Android Internals                            | [youtube](https://www.youtube.com/watch?v=KLUXPxxJc5c)                                                  | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-part-1-at-linaro-connect-asia-2013)
 15  | Karim Yaghmour Presents Embedded Android #2 - Working with the AOSP                        | [youtube](https://www.youtube.com/watch?v=LimC0XpeT0k)                                                  | [slides](https://www.slideshare.net/opersys/working-with-the-aosp-linaro-connect-asia-2013)
 16  | Karim Yaghmour Presents Embedded Android #3 - Native Android user-space                    | [youtube](https://www.youtube.com/watch?v=lHeMfFAFI-I&t=880s)                                           | [slides](https://www.slideshare.net/opersys/native-android-userspace-part-of-the-embedded-android-workshop-at-linaro-connect-asia-2013)
-17  | Karim Yaghmour Presents Embedded Android #4 - Using and Customizing the Android Framework                   | [youtube](https://www.youtube.com/watch?v=XwRy8Kv3vDQ&t=7s)                            | [slides](https://www.slideshare.net/opersys/using-and-customizing-the-android-framework-part-4-of-embedded-android-workshop-at-linaro-connect-asia-2013)
-
+17  | Karim Yaghmour Presents Embedded Android #4 - Using and Customizing the Android Framework  | [youtube](https://www.youtube.com/watch?v=XwRy8Kv3vDQ&t=7s)                                             | [slides](https://www.slideshare.net/opersys/using-and-customizing-the-android-framework-part-4-of-embedded-android-workshop-at-linaro-connect-asia-2013)
+18  | Amit Pundir - Android Porting for Dummies                                                  | [youtube](https://www.youtube.com/watch?v=JD1V3AQC0GQ)                                                  | [slides](https://www.slideshare.net/pundiramit/android-porting-for-dummies)
+19  | #droidconpl2015 - Aleksander Piotrowski 'Nothing but the truth about Binder'               | [youtube](https://www.youtube.com/watch?v=l4OlJqJDpkk)                      
+19  | Tutorial: Diving into Android Source Code                                                  | [youtube](https://www.youtube.com/watch?v=NsqFOSzoYE8)                 
 
 
 Num |           useful docs                               |            link 
@@ -34,21 +36,11 @@ video:  https://www.youtube.com/watch?v=BXqoz-qIcbk
 slides: https://github.com/floe/mobile-information-systems/blob/master/10-android-internals.odp
 
 
-Amit Pundir - Android Porting for Dummies
-https://www.youtube.com/watch?v=JD1V3AQC0GQ
-
-The Jack and Jill Build System
-https://www.youtube.com/watch?v=IwklNEYYs2I&t=1737s
-
-Open Source on Sony Devices (Big Android BBQ 2015)
-https://www.youtube.com/watch?v=E4amrzJ_fUY
 
 
-#droidconpl2015 - Aleksander Piotrowski 'Nothing but the truth about Binder'
-https://www.youtube.com/watch?v=l4OlJqJDpkk
 
-Tutorial: Diving into Android Source Code
-https://www.youtube.com/watch?v=NsqFOSzoYE8
+
+
 
 
 https://www.youtube.com/playlist?list=PLEq1q16moI5uvGNEdu0eODGiSJAk3VXfy
