@@ -1,4 +1,8 @@
 # aosp-research
+ELC 2015 - Memory Management Internals - Karim Yaghmour, Opersys
+https://www.youtube.com/watch?v=0BLLt_U5pus&list=PLzHJsAe4ulQr0HY2weezuHJSubzqh2McJ
+http://elinux.org/images/e/e9/Memory_Management_Internals.pdf
+
 ELC 2015 - Android Customization: From the Kernel to the Apps - Cédric Cabessa, Genymobile
 https://www.youtube.com/watch?v=o64puvBxgYM&index=3&list=PLp0nAUdhWcr5xQnM5Jaay5NccBlUE6Z8V
 http://elinux.org/images/f/fb/Android_Customization-_From_the_Kernel_to_the_Apps.pdf
