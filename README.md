@@ -22,10 +22,10 @@ Num |                                  Video                                    
 18  | Amit Pundir - Android Porting for Dummies                                                  | [youtube](https://www.youtube.com/watch?v=JD1V3AQC0GQ)                                                  | [slides](https://www.slideshare.net/pundiramit/android-porting-for-dummies)
 19  | #droidconpl2015 - Aleksander Piotrowski 'Nothing but the truth about Binder'               | [youtube](https://www.youtube.com/watch?v=l4OlJqJDpkk)                      
 20  | Tutorial: Diving into Android Source Code                                                  | [youtube](https://www.youtube.com/watch?v=NsqFOSzoYE8)                 
-21  | ELC 2015 - Embedded Android Workshop Part 1 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=dEKYZUgorWQ&t=115s) | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
-22  | ELC 2015 - Embedded Android Workshop Part 2 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=TBNz2LN_58s)        | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
-23  | ELC 2015 - Embedded Android Workshop Part 3 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=qaI2upEFuoc)        | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
-
+21  | ELC 2015 - Embedded Android Workshop Part 1 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=dEKYZUgorWQ&t=115s)                                           | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
+22  | ELC 2015 - Embedded Android Workshop Part 2 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=TBNz2LN_58s)                                                  | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
+23  | ELC 2015 - Embedded Android Workshop Part 3 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=qaI2upEFuoc)                                                  | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
+24  | Deep Dive into Android IPC/Binder Framework                                                | [youtube](https://www.youtube.com/watch?v=LBqpXaivRmY&list=PLp8TnZfz-r1761W5cksOx6488Io7F-Eky&index=1)  | [slides](https://events.linuxfoundation.org/images/stories/slides/abs2013_gargentas.pdf)
 
 
 
@@ -39,7 +39,7 @@ Num |           useful docs                               |            link
 --- | --------------------------------------------------- | ------------------------ 
 1   | Android Compatibility Definition Android 7.1        | [here](https://static.googleusercontent.com/media/source.android.com/en//compatibility/android-cdd.pdf)                                                 
 
-
+https://www.youtube.com/watch?v=LBqpXaivRmY&list=PLp8TnZfz-r1761W5cksOx6488Io7F-Eky&index=1
 
 
 MIS 2016 - Lecture 10 - Android Internals - Part 1
@@ -63,7 +63,7 @@ https://www.youtube.com/playlist?list=PL9kDJEhVASV7Onu9l2rRvo14N9S4z8rNh
 http://blog.udinic.com/2014/07/24/aosp-part-3-developing-efficiently
 
 
-https://www.youtube.com/watch?v=LBqpXaivRmY&list=PLp8TnZfz-r1761W5cksOx6488Io7F-Eky&index=1
+
 
 https://www.youtube.com/watch?v=hiq3mGfLOtE
 
