@@ -21,7 +21,18 @@ Num |                                  Video                                    
 17  | Karim Yaghmour Presents Embedded Android #4 - Using and Customizing the Android Framework  | [youtube](https://www.youtube.com/watch?v=XwRy8Kv3vDQ&t=7s)                                             | [slides](https://www.slideshare.net/opersys/using-and-customizing-the-android-framework-part-4-of-embedded-android-workshop-at-linaro-connect-asia-2013)
 18  | Amit Pundir - Android Porting for Dummies                                                  | [youtube](https://www.youtube.com/watch?v=JD1V3AQC0GQ)                                                  | [slides](https://www.slideshare.net/pundiramit/android-porting-for-dummies)
 19  | #droidconpl2015 - Aleksander Piotrowski 'Nothing but the truth about Binder'               | [youtube](https://www.youtube.com/watch?v=l4OlJqJDpkk)                      
-19  | Tutorial: Diving into Android Source Code                                                  | [youtube](https://www.youtube.com/watch?v=NsqFOSzoYE8)                 
+20  | Tutorial: Diving into Android Source Code                                                  | [youtube](https://www.youtube.com/watch?v=NsqFOSzoYE8)                 
+21  | ELC 2015 - Embedded Android Workshop Part 1 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=dEKYZUgorWQ&t=115s) | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
+22  | ELC 2015 - Embedded Android Workshop Part 2 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=TBNz2LN_58s)        | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
+23  | ELC 2015 - Embedded Android Workshop Part 3 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=qaI2upEFuoc)        | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
+
+
+
+
+
+
+
+
 
 
 Num |           useful docs                               |            link 
@@ -65,8 +76,6 @@ https://www.youtube.com/watch?v=EZAoJU-nUyI
 
 
 
-ELC 2015 - Embedded Android Workshop Part 1 - Karim Yaghmour, Opersys
-https://www.youtube.com/watch?v=dEKYZUgorWQ&t=115s
 
 
 
