@@ -1,21 +1,13 @@
 # aosp-research
-ELC 2015 - Platform-Level UI Customization - Karim Yaghmour, Opersys
-https://www.youtube.com/watch?v=icHT3t0P3lw
-http://elinux.org/images/2/2b/Platform-Level_UI_Customization.pdf
 
+Num | Video | youtube | slides
+------------ | ------------ | ------------- | -------------
+1 | ELC 2015 - Platform-Level UI Customization - Karim Yaghmour, Opersys | [youtube](https://www.youtube.com/watch?v=icHT3t0P3lw) | [slides](http://elinux.org/images/2/2b/Platform-Level_UI_Customization.pdf)
+2 | Shree Kumar and Nitheesh K. L. - Extending Android with New Devices | [youtube](https://www.youtube.com/watch?v=hezmo93-tU4) | [slides](https://www.slideshare.net/ShreeKumar1/extending-android-with-new-devices)
+3 | Open Android - O'Reilly Webcast - Marko Gargenta | [youtube](https://www.youtube.com/watch?v=6TpxrZo1FjA&list=PLOrIbKcQAgbnWyrE3EVF2QPlf4CvThk6A) |
+4 | Google I/O 2014 - The ART runtime | [youtube](https://www.youtube.com/watch?v=EBlTzQsUoOw&index=10&list=PLd70x3t8N-h6TjgeOT60nnyTQ2u1p1cWL) |
+5 | ELC 2015 - Memory Management Internals - Karim Yaghmour, Opersys | [youtube](https://www.youtube.com/watch?v=0BLLt_U5pus&list=PLzHJsAe4ulQr0HY2weezuHJSubzqh2McJ) | [slides](http://elinux.org/images/e/e9/Memory_Management_Internals.pdf)
 
-Shree Kumar and Nitheesh K. L. - Extending Android with New Devices
-https://www.youtube.com/watch?v=hezmo93-tU4
-https://www.slideshare.net/ShreeKumar1/extending-android-with-new-devices
-
-Open Android - O'Reilly Webcast - Marko Gargenta
-https://www.youtube.com/watch?v=6TpxrZo1FjA&list=PLOrIbKcQAgbnWyrE3EVF2QPlf4CvThk6A
-
-Google I/O 2014 - The ART runtime
-https://www.youtube.com/watch?v=EBlTzQsUoOw&index=10&list=PLd70x3t8N-h6TjgeOT60nnyTQ2u1p1cWL
-ELC 2015 - Memory Management Internals - Karim Yaghmour, Opersys
-https://www.youtube.com/watch?v=0BLLt_U5pus&list=PLzHJsAe4ulQr0HY2weezuHJSubzqh2McJ
-http://elinux.org/images/e/e9/Memory_Management_Internals.pdf
 
 ELC 2015 - Android Customization: From the Kernel to the Apps - Cédric Cabessa, Genymobile
 https://www.youtube.com/watch?v=o64puvBxgYM&index=3&list=PLp0nAUdhWcr5xQnM5Jaay5NccBlUE6Z8V
