@@ -1,4 +1,9 @@
 # aosp-research
+Open Android - O'Reilly Webcast - Marko Gargenta
+https://www.youtube.com/watch?v=6TpxrZo1FjA&list=PLOrIbKcQAgbnWyrE3EVF2QPlf4CvThk6A
+
+Google I/O 2014 - The ART runtime
+https://www.youtube.com/watch?v=EBlTzQsUoOw&index=10&list=PLd70x3t8N-h6TjgeOT60nnyTQ2u1p1cWL
 ELC 2015 - Memory Management Internals - Karim Yaghmour, Opersys
 https://www.youtube.com/watch?v=0BLLt_U5pus&list=PLzHJsAe4ulQr0HY2weezuHJSubzqh2McJ
 http://elinux.org/images/e/e9/Memory_Management_Internals.pdf
