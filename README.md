@@ -62,11 +62,6 @@ Playlist
 blogs:
 1. http://blog.udinic.com/2014/07/24/aosp-part-3-developing-efficiently
 
-http://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
-
-
-
-
 
 
 Little Kernel Boot Loader Overview ( Qualcomm )
