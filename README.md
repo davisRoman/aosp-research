@@ -43,17 +43,13 @@ Num |                                  Video                                    
 39  | Porting VLC on Android (en) - Jean-Baptiste Kempf, VideoLan - Droidcon Paris 2014          | [youtube](https://www.youtube.com/watch?v=NoWV2JdoNnc)
 40  | DEF CON 20 - Thomas Cannon - Into the Droid: Gaining Access to Android User Data           | [youtube](https://www.youtube.com/watch?v=MOYqgIhQ3y0)
 41  | A War Story: Porting Android 4.0 to a Custom Board - ELCE 2012                             | [youtube](https://www.youtube.com/watch?v=LBgRmZOV-tc)           | [slides](http://elinux.org/images/f/ff/Porting_Android_4.0_to_a_Custom_Board.pdf)
+42  | MIS 2016 - Lecture 10 - Android Internals - Part 1                                         | [youtube](https://www.youtube.com/watch?v=BXqoz-qIcbk)           | [slides](https://github.com/floe/mobile-information-systems/blob/master/10-android-internals.odp)
 
 Num |           useful docs                               |            link 
 --- | --------------------------------------------------- | ------------------------ 
 1   | Android Compatibility Definition Android 7.1        | [here](https://static.googleusercontent.com/media/source.android.com/en//compatibility/android-cdd.pdf)                                                 
 
-https://www.youtube.com/watch?v=LBqpXaivRmY&list=PLp8TnZfz-r1761W5cksOx6488Io7F-Eky&index=1
 
-
-MIS 2016 - Lecture 10 - Android Internals - Part 1
-video:  https://www.youtube.com/watch?v=BXqoz-qIcbk
-slides: https://github.com/floe/mobile-information-systems/blob/master/10-android-internals.odp
 
 Playlist
 1.https://www.youtube.com/playlist?list=PLEq1q16moI5uvGNEdu0eODGiSJAk3VXfy
