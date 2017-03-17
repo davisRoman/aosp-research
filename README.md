@@ -41,6 +41,7 @@ Num |                                  Video                                    
 37  | CyanogenMod Workshop - Building your own Android OS - Abhisek Devkota @ADD 15              | [youtube](https://www.youtube.com/watch?v=AUMyXknowhY)
 38  | ELC2015-Android Open Source Project to Support Single-Use Device Controllers-Ben Friedberg | [youtube](https://www.youtube.com/watch?v=thzj0OtGb9E&t=466s)
 39  | Porting VLC on Android (en) - Jean-Baptiste Kempf, VideoLan - Droidcon Paris 2014          | [youtube](https://www.youtube.com/watch?v=NoWV2JdoNnc)
+40  | DEF CON 20 - Thomas Cannon - Into the Droid: Gaining Access to Android User Data           | [youtube](https://www.youtube.com/watch?v=MOYqgIhQ3y0)
 
 
 Num |           useful docs                               |            link 
@@ -113,8 +114,6 @@ http://files.cnblogs.com/files/pengdonglin137/Android-x86%E6%9E%B6%E6%9E%84%E5%8
 Understanding Android Open Source Project
 http://www.cafelinear.com/2014/02/27/understanding-aosp.html
 
-
-http://elinux.org/images/b/bc/Utilizing_the_Android_Open_Source_Project_to_Support_Controllers_for_Single-Use_Devices.pdf
 
 
 
