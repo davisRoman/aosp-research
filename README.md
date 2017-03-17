@@ -42,7 +42,7 @@ Num |                                  Video                                    
 38  | ELC2015-Android Open Source Project to Support Single-Use Device Controllers-Ben Friedberg | [youtube](https://www.youtube.com/watch?v=thzj0OtGb9E&t=466s)
 39  | Porting VLC on Android (en) - Jean-Baptiste Kempf, VideoLan - Droidcon Paris 2014          | [youtube](https://www.youtube.com/watch?v=NoWV2JdoNnc)
 40  | DEF CON 20 - Thomas Cannon - Into the Droid: Gaining Access to Android User Data           | [youtube](https://www.youtube.com/watch?v=MOYqgIhQ3y0)
-
+41  | A War Story: Porting Android 4.0 to a Custom Board - ELCE 2012                             | [youtube](https://www.youtube.com/watch?v=LBgRmZOV-tc)           | [slides](http://elinux.org/images/f/ff/Porting_Android_4.0_to_a_Custom_Board.pdf)
 
 Num |           useful docs                               |            link 
 --- | --------------------------------------------------- | ------------------------ 
@@ -81,7 +81,7 @@ http://www.nxp.com/documents/application_note/AN11690.pdf
 
 http://xda-university.com/as-a-developer/porting-android-to-non-android-devices
 
-http://elinux.org/images/f/ff/Porting_Android_4.0_to_a_Custom_Board.pdf
+
 
 http://free-electrons.com/pub/conferences/2015/captronic/captronic-porting-linux-on-arm.pdf
 
