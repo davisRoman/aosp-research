@@ -53,13 +53,6 @@ MIS 2016 - Lecture 10 - Android Internals - Part 1
 video:  https://www.youtube.com/watch?v=BXqoz-qIcbk
 slides: https://github.com/floe/mobile-information-systems/blob/master/10-android-internals.odp
 
-
-
-
-
-
-
-
 Playlist
 1.https://www.youtube.com/playlist?list=PLEq1q16moI5uvGNEdu0eODGiSJAk3VXfy
 2. https://www.youtube.com/playlist?list=PL07D15CEBAC16A98B
@@ -67,41 +60,17 @@ Playlist
 blogs:
 1. http://blog.udinic.com/2014/07/24/aosp-part-3-developing-efficiently
 
-
-
-
-
-
 http://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
 
 
-Digging Into Android Startup
-https://www.youtube.com/watch?annotation_id=annotation_1433316763&feature=iv&src_vid=GFtoxou13J8&v=5SQP0qfUDjI
 
 
-Digging Into Android System Services
-https://www.youtube.com/watch?v=M6extgmQQNw
 
-Android Development Fundamentals: What I wish I knew when I started
-https://www.youtube.com/watch?v=h3gPo7qFOFw
-
-Tutorial: X86 ROM Cooking 101 - Android Builders Summit
-https://www.youtube.com/watch?v=7iLeBD33Fo0
-
-
-https://www.youtube.com/watch?v=AJVolvNwHL8
-Debugging & Testing Your Android Applications
-
-
-Dave Smith: Android Training, Things Devs Should Know
-https://www.youtube.com/watch?v=GFtoxou13J8
 
 Little Kernel Boot Loader Overview ( Qualcomm )
 file:///home/davis/Downloads/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
 
 
-ELC 2015 - Generalize Android on Low-Cost 64-Bit ARM Community Boards - Khasim Syed Mohammed, Linaro
-https://www.youtube.com/watch?v=u2Ef3bfyT6s
 
 Porting VLC on Android (en) - Jean-Baptiste Kempf, VideoLan - Droidcon Paris 2014
 https://www.youtube.com/watch?v=NoWV2JdoNnc
@@ -110,8 +79,6 @@ https://www.youtube.com/watch?v=NoWV2JdoNnc
 https://events.linuxfoundation.org/slides/2011/abs/abs2011_yaghmour_porting.pdf
 
 
-Android Device Porting Walkthrough - Android Builder Summit 2012
-https://www.youtube.com/watch?v=mvxYt3AkbrE
 
 NXPNCI Android Porting Guidelines
 http://www.nxp.com/documents/application_note/AN11690.pdf
@@ -136,18 +103,6 @@ https://suchakra.wordpress.com/2016/04/15/custom-kernel-on-96boards-hikey/
 
 Getting Started: Building Android From Source
 http://xda-university.com/as-a-developer/getting-started-building-android-from-source
-
-Komáromy Dániel - Enter The Snapdragon!
-https://www.youtube.com/watch?v=2wJRnewVE-g
-
-https://www.youtube.com/watch?v=JnGL85SglbA
-Dissecting Qualcomm's 1.7M Android Fork by Stephen Boyd
-
-[CB16] The ARMs race for kernel protection by Jonathan​ ​Levin
-https://www.youtube.com/watch?v=7qSr5p3wJ_8
-
-CyanogenMod Workshop - Building your own Android OS - Abhisek Devkota @ADD 15
-https://www.youtube.com/watch?v=AUMyXknowhY
 
 http://www.themobileknowledge.com/training-area/sites/default/files/NFC%20in%20Android.pdfhttps://www.windriver.com/seminars/7751-android/2-Android_TexasInstruments.pdf
 
