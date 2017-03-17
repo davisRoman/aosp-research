@@ -28,7 +28,17 @@ Num |                                  Video                                    
 24  | Deep Dive into Android IPC/Binder Framework                                                | [youtube](https://www.youtube.com/watch?v=LBqpXaivRmY&list=PLp8TnZfz-r1761W5cksOx6488Io7F-Eky&index=1)  | [slides](https://events.linuxfoundation.org/images/stories/slides/abs2013_gargentas.pdf)
 25  | Mastering the Android Touch System                                                         | [youtube](https://www.youtube.com/watch?v=EZAoJU-nUyI)                                                  | [slides](http://files.cnblogs.com/files/sunzn/PRE_andevcon_mastering-the-android-touch-system.pdf)
 26  | Digging Into Android Startup                                                               | [youtube](https://www.youtube.com/watch?annotation_id=annotation_1433316763&feature=iv&src_vid=GFtoxou13J8&v=5SQP0qfUDjI)                                          
-
+27  | Digging Into Android System Services                                                       | [youtube](https://www.youtube.com/watch?v=M6extgmQQNw)
+28  | Android Development Fundamentals: What I wish I knew when I started                        | [youtube](https://www.youtube.com/watch?v=h3gPo7qFOFw)
+29  | Tutorial: X86 ROM Cooking 101 - Android Builders Summit                                    | [youtube](https://www.youtube.com/watch?v=7iLeBD33Fo0)
+30  | Debugging & Testing Your Android Applications                                              | [youtube](https://www.youtube.com/watch?v=AJVolvNwHL8)
+31  | Dave Smith: Android Training, Things Devs Should Know                                      | [youtube](https://www.youtube.com/watch?v=GFtoxou13J8)
+32  | ELC 2015-Generalize Android on Low-Cost 64-Bit ARM Community Boards-Khasim Syed Mohammed   | [youtube](https://www.youtube.com/watch?v=u2Ef3bfyT6s)
+33  | Android Device Porting Walkthrough - Android Builder Summit 2012                           | [youtube](https://www.youtube.com/watch?v=mvxYt3AkbrE)
+34  | Komáromy Dániel - Enter The Snapdragon!                                                    | [youtube](https://www.youtube.com/watch?v=2wJRnewVE-g)
+35  | Dissecting Qualcomm's 1.7M Android Fork by Stephen Boyd                                    | [youtube](https://www.youtube.com/watch?v=JnGL85SglbA)
+36  | [CB16] The ARMs race for kernel protection by Jonathan Levin                               | [youtube](https://www.youtube.com/watch?v=7qSr5p3wJ_8)
+37  | CyanogenMod Workshop - Building your own Android OS - Abhisek Devkota @ADD 15              | [youtube](https://www.youtube.com/watch?v=AUMyXknowhY)
 
 
 
