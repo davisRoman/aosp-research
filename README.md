@@ -15,10 +15,10 @@ Num |                                  Video                                    
 11  | ADB (Android Debug Bridge) How It Works - Android Builder Summit 2012                      | [youtube](https://www.youtube.com/watch?v=0y8Xn5NfpLY&index=3&list=PL89H05C9GvZ-CbEkj2CFuwNlHvql0qB_p)  |
 12  | Running Code in the Android Stack - Karim Yaghmour, Opersys                                | [youtube](https://www.youtube.com/watch?v=D5D5_Cghkv0&list=PLrWvSmw0_Zf2Y9PH3rsFZra_g1Zo9Yk2h&index=1)  | [slides](http://events.linuxfoundation.org/sites/events/files/slides/running-code-in-android-clean-131030.pdf)
 13  | ELC 2015 - Building My Product on Android Open Source Project - Rafael Coutinho, Phi       | [youtube](https://www.youtube.com/watch?v=yUOzBvtXEgE&t=132s)                                           | [slides](http://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf)
-14  | Karim Yaghmour Presents Embedded Android #1 - Android Internals                            | [youtube](https://www.youtube.com/watch?v=KLUXPxxJc5c)                                                  | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-part-1-at-linaro-connect-asia-2013)
-15  | Karim Yaghmour Presents Embedded Android #2 - Working with the AOSP                        | [youtube](https://www.youtube.com/watch?v=LimC0XpeT0k)                                                  | [slides](https://www.slideshare.net/opersys/working-with-the-aosp-linaro-connect-asia-2013)
-16  | Karim Yaghmour Presents Embedded Android #3 - Native Android user-space                    | [youtube](https://www.youtube.com/watch?v=lHeMfFAFI-I&t=880s)                                           | [slides](https://www.slideshare.net/opersys/native-android-userspace-part-of-the-embedded-android-workshop-at-linaro-connect-asia-2013)
-17  | Karim Yaghmour Presents Embedded Android #4 - Using and Customizing the Android Framework  | [youtube](https://www.youtube.com/watch?v=XwRy8Kv3vDQ&t=7s)                                             | [slides](https://www.slideshare.net/opersys/using-and-customizing-the-android-framework-part-4-of-embedded-android-workshop-at-linaro-connect-asia-2013)
+14  | Karim Yaghmour: Embedded Android #1 - Android Internals                                    | [youtube](https://www.youtube.com/watch?v=KLUXPxxJc5c)                                                  | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-part-1-at-linaro-connect-asia-2013)
+15  | Karim Yaghmour: Embedded Android #2 - Working with the AOSP                                | [youtube](https://www.youtube.com/watch?v=LimC0XpeT0k)                                                  | [slides](https://www.slideshare.net/opersys/working-with-the-aosp-linaro-connect-asia-2013)
+16  | Karim Yaghmour: Embedded Android #3 - Native Android user-space                            | [youtube](https://www.youtube.com/watch?v=lHeMfFAFI-I&t=880s)                                           | [slides](https://www.slideshare.net/opersys/native-android-userspace-part-of-the-embedded-android-workshop-at-linaro-connect-asia-2013)
+17  | Karim Yaghmour: Embedded Android #4 - Using and Customizing the Android Framework          | [youtube](https://www.youtube.com/watch?v=XwRy8Kv3vDQ&t=7s)                                             | [slides](https://www.slideshare.net/opersys/using-and-customizing-the-android-framework-part-4-of-embedded-android-workshop-at-linaro-connect-asia-2013)
 18  | Amit Pundir - Android Porting for Dummies                                                  | [youtube](https://www.youtube.com/watch?v=JD1V3AQC0GQ)                                                  | [slides](https://www.slideshare.net/pundiramit/android-porting-for-dummies)
 19  | #droidconpl2015 - Aleksander Piotrowski 'Nothing but the truth about Binder'               | [youtube](https://www.youtube.com/watch?v=l4OlJqJDpkk)                      
 20  | Tutorial: Diving into Android Source Code                                                  | [youtube](https://www.youtube.com/watch?v=NsqFOSzoYE8)                 
@@ -26,14 +26,8 @@ Num |                                  Video                                    
 22  | ELC 2015 - Embedded Android Workshop Part 2 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=TBNz2LN_58s)                                                  | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
 23  | ELC 2015 - Embedded Android Workshop Part 3 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=qaI2upEFuoc)                                                  | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
 24  | Deep Dive into Android IPC/Binder Framework                                                | [youtube](https://www.youtube.com/watch?v=LBqpXaivRmY&list=PLp8TnZfz-r1761W5cksOx6488Io7F-Eky&index=1)  | [slides](https://events.linuxfoundation.org/images/stories/slides/abs2013_gargentas.pdf)
-25  | AnDevCon IV: Android Binder IPC Framework                                                  | [youtube](https://www.youtube.com/watch?v=hiq3mGfLOtE)                                                  | [slides](https://events.linuxfoundation.org/images/stories/slides/abs2013_gargentas.pdf)
-
-
-
-
-
-
-
+25  | Mastering the Android Touch System                                                         | [youtube](https://www.youtube.com/watch?v=EZAoJU-nUyI)                                                  | [slides](http://files.cnblogs.com/files/sunzn/PRE_andevcon_mastering-the-android-touch-system.pdf)
+26  | Digging Into Android Startup                                                               | [youtube](https://www.youtube.com/watch?annotation_id=annotation_1433316763&feature=iv&src_vid=GFtoxou13J8&v=5SQP0qfUDjI)                                          
 
 
 
@@ -66,16 +60,9 @@ blogs:
 
 
 
-https://www.youtube.com/watch?v=NWhyADzgoiI
+
 
 http://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
-
-Mastering the Android Touch System
-https://www.youtube.com/watch?v=EZAoJU-nUyI
-
-
-
-
 
 
 Digging Into Android Startup
