@@ -98,7 +98,6 @@ http://xda-university.com/as-a-developer/getting-started-building-android-from-s
 http://www.themobileknowledge.com/training-area/sites/default/files/NFC%20in%20Android.pdfhttps://www.windriver.com/seminars/7751-android/2-Android_TexasInstruments.pdf
 
 https://www.cl.cam.ac.uk/teaching/0910/AddTopics/lecture4.pdf
-http://www.embeddedcomputingconference.ch/pdf_sec_2009/3b3-ziswiler.pdf
 
 http://files.cnblogs.com/files/pengdonglin137/Android-x86%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E4%B8%8E%E7%A7%BB%E6%A4%8D2.pdf
 
