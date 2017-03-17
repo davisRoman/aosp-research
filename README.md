@@ -26,6 +26,9 @@ Num |                                  Video                                    
 22  | ELC 2015 - Embedded Android Workshop Part 2 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=TBNz2LN_58s)                                                  | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
 23  | ELC 2015 - Embedded Android Workshop Part 3 - Karim Yaghmour, Opersys                      | [youtube](https://www.youtube.com/watch?v=qaI2upEFuoc)                                                  | [slides](https://www.slideshare.net/opersys/embedded-android-workshop-46338344)
 24  | Deep Dive into Android IPC/Binder Framework                                                | [youtube](https://www.youtube.com/watch?v=LBqpXaivRmY&list=PLp8TnZfz-r1761W5cksOx6488Io7F-Eky&index=1)  | [slides](https://events.linuxfoundation.org/images/stories/slides/abs2013_gargentas.pdf)
+25  | AnDevCon IV: Android Binder IPC Framework                                                  | [youtube](https://www.youtube.com/watch?v=hiq3mGfLOtE)                                                  | [slides](https://events.linuxfoundation.org/images/stories/slides/abs2013_gargentas.pdf)
+
+
 
 
 
@@ -53,19 +56,15 @@ slides: https://github.com/floe/mobile-information-systems/blob/master/10-androi
 
 
 
-
-https://www.youtube.com/playlist?list=PLEq1q16moI5uvGNEdu0eODGiSJAk3VXfy
-
-https://www.youtube.com/playlist?list=PL07D15CEBAC16A98B
-
-https://www.youtube.com/playlist?list=PL9kDJEhVASV7Onu9l2rRvo14N9S4z8rNh
-
-http://blog.udinic.com/2014/07/24/aosp-part-3-developing-efficiently
+Playlist
+1.https://www.youtube.com/playlist?list=PLEq1q16moI5uvGNEdu0eODGiSJAk3VXfy
+2. https://www.youtube.com/playlist?list=PL07D15CEBAC16A98B
+3. https://www.youtube.com/playlist?list=PL9kDJEhVASV7Onu9l2rRvo14N9S4z8rNh
+blogs:
+1. http://blog.udinic.com/2014/07/24/aosp-part-3-developing-efficiently
 
 
 
-
-https://www.youtube.com/watch?v=hiq3mGfLOtE
 
 https://www.youtube.com/watch?v=NWhyADzgoiI
 
