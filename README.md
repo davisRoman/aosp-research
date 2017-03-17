@@ -39,7 +39,8 @@ Num |                                  Video                                    
 35  | Dissecting Qualcomm's 1.7M Android Fork by Stephen Boyd                                    | [youtube](https://www.youtube.com/watch?v=JnGL85SglbA)
 36  | [CB16] The ARMs race for kernel protection by Jonathan Levin                               | [youtube](https://www.youtube.com/watch?v=7qSr5p3wJ_8)
 37  | CyanogenMod Workshop - Building your own Android OS - Abhisek Devkota @ADD 15              | [youtube](https://www.youtube.com/watch?v=AUMyXknowhY)
-
+38  | ELC2015-Android Open Source Project to Support Single-Use Device Controllers-Ben Friedberg | [youtube](https://www.youtube.com/watch?v=thzj0OtGb9E&t=466s)
+39  | Porting VLC on Android (en) - Jean-Baptiste Kempf, VideoLan - Droidcon Paris 2014          | [youtube](https://www.youtube.com/watch?v=NoWV2JdoNnc)
 
 
 Num |           useful docs                               |            link 
@@ -72,8 +73,6 @@ file:///home/davis/Downloads/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
 
 
 
-Porting VLC on Android (en) - Jean-Baptiste Kempf, VideoLan - Droidcon Paris 2014
-https://www.youtube.com/watch?v=NoWV2JdoNnc
 
 
 https://events.linuxfoundation.org/slides/2011/abs/abs2011_yaghmour_porting.pdf
@@ -118,8 +117,7 @@ http://www.cafelinear.com/2014/02/27/understanding-aosp.html
 http://elinux.org/images/b/bc/Utilizing_the_Android_Open_Source_Project_to_Support_Controllers_for_Single-Use_Devices.pdf
 
 
-ELC 2015 - Android Open Source Project to Support Single-Use Device Controllers - Ben Friedberg, SDG
-https://www.youtube.com/watch?v=thzj0OtGb9E&t=466s
+
 
 Compatibility Definition - Android 7.1
 https://static.googleusercontent.com/media/source.android.com/en//compatibility/android-cdd.pdf
