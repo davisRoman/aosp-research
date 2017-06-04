@@ -2,6 +2,8 @@
 Num |                                  Video                                                     |                                                         youtube                                         | slides
 --- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
 1   | Jon Cruz - Where's Wayland                                                | [youtube](https://www.youtube.com/watch?v=Sz1T0GvUziw)                                                  |
+2   | X11 Sucks, Is Wayland Our Saviour?                                                | [youtube](https://www.youtube.com/watch?v=xmAPfiyYuLw)                                                  |
+
 
 # aosp-research
 
