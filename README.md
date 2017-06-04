@@ -1,8 +1,10 @@
+# Wayland
 
-Num |                                  Video                                                     |                                                         youtube                                         | slides
---- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
-1   | Jon Cruz - Where's Wayland                                                | [youtube](https://www.youtube.com/watch?v=Sz1T0GvUziw)                                                  |
-2   | X11 Sucks, Is Wayland Our Saviour?                                                | [youtube](https://www.youtube.com/watch?v=xmAPfiyYuLw)                                                  |
+Num |                                  Video                                                         |                                                         youtube                                         | slides
+--- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
+1   | Jon Cruz - Where's Wayland                                                                     | [youtube](https://www.youtube.com/watch?v=Sz1T0GvUziw)                                                  |
+2   | X11 Sucks, Is Wayland Our Saviour?                                                             | [youtube](https://www.youtube.com/watch?v=xmAPfiyYuLw)                                                  |
+3   | Hello Wayland, Goodbye X11 - The year of the Linux desktop! - Carsten Haitzler - FOSSASIA 2017 | [youtube](https://www.youtube.com/watch?v=Zsz7Shbnb9c)                                                  |
 
 
 # aosp-research
